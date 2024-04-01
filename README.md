@@ -17,4 +17,4 @@ First, you need to clone this repository: `git clone https://github.com/Rostysla
 ## How to use
 - Start the server to accept client.
 - Next, start the client: `client <filepath>`
-- Now the file is transferred to server.
+- Now the file will be transferred to the server.
